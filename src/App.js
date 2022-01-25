@@ -6,17 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vRjESeGjvsdGuxNogAsIro0gal_VJOiWJ4Wcq6xiiMx5LPtE3eyolhYaQcU-U1tAmApmKjGJ5Askn1g/pub?embedded=true"></iframe>
       </header>
     </div>
   );
